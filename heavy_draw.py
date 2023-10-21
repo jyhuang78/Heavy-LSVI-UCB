@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 if __name__ == "__main__":
     df = 3
 
-    for scale in [2]:
+    for scale in [0,2]:
         round = 10000
 
         # draw
